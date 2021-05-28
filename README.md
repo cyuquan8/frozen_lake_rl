@@ -9,9 +9,9 @@ The code utilises the following tabular reinforcement learning techniques:
 
 1. First Visit Monte Carlo without Exploring Starts
 2. SARSA
-3. SARSA($\lambda$)
+3. SARSA(λ)
 4. Q Learning
-5. Watkin's Q($\lambda$) 
+5. Watkin's Q(λ) 
 
 The details of the stated reinforcement learning techniques is elaborated in [frozen_lake_rl_report](https://github.com/mion666459/frozen_lake_rl/blob/main/frozen_lake_rl_report.pdf).  The following plots shows some of the results in comparing the various algorithms in a 4 X 4 grid world. Comparing the number of success (maximum 5) and training time between the number of iterations and the type of the algorithm, the following illustrations are obtained.
 
